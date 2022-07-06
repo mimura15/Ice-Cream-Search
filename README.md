@@ -27,5 +27,5 @@
 ## 使用素材
 
 
-##実装機能リスト　URL
+### 実装機能リストURL
 https://docs.google.com/spreadsheets/d/1eeSafcasYuOJRtzesORlnvSt-Gf6Pr9Eh0NqPDlN7xs/edit?usp=sharing
